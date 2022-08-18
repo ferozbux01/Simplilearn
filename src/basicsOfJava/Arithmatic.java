@@ -1,7 +1,8 @@
-package Basics;
+package basicsOfJava;
+
 import java.util.Scanner;
-public class Arthmatic {
-public static void main (String args[]) Delete this line
+public class Arithmatic {
+public static void main (String args[])
 {
 	String n;
 	int n1, n2, n3;
@@ -17,5 +18,4 @@ public static void main (String args[]) Delete this line
 	}
 	System.out.println(n +" TheSum = " + (n1+n2+n3));
 
-}
-}//This is just a comment//
+}}
