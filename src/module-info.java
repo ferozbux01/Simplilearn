@@ -1,2 +1,3 @@
-module Practice {
+module basicsOfJava {
+	exports basicsOfJava;
 }
